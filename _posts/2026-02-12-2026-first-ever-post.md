@@ -20,7 +20,7 @@ I am a very cool person with absolutely no computer science knowledge.  If you'r
 
 
 My name is Justine, I am a junior. I am a comparative literature major and I play softball at Williams College.
-![Softball](https://beautifuljekyll.com/assets/DSC_5157_Original.jpeg)
+![Softball](https://jld6-hub.github.io/assets/DSC_5157_Original.jpeg)
 
 I also sing in an acapella group and do improv, I love to perform, or at least try to!
 
