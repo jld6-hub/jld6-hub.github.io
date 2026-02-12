@@ -24,16 +24,11 @@ My name is Justine, I am a junior. I am a comparative literature major and I pla
 
 I also sing in an acapella group and do improv, I love to perform, or at least try to!
 
-![Crepe](https://jld6-hub.github.io/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://jld6-hub.github.io/assets/DSC_2941.jpeg){: .mx-auto.d-block :}
 
-Here's a code chunk:
+I have very minimal sewing experience. I did a sewing camp when I was in the third grade where I learned to make my own skirt, but I have since lost that knowledge. I can fix my ripped clothes and small things like that, but I'm excited to learn how to embroider. 
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+I have no programming experience except when I had to use R in a class last year. I don't know if that counts but it was horrifying. 
 
 And here is the same code with syntax highlighting:
 
