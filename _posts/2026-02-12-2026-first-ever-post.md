@@ -1,38 +1,25 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
+title: Everything You Need to Know About Justine Dunaway
+subtitle: I'm very awesome!
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [test, post, beautiful]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Justine Dunaway
 ---
 
 {: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+I am a very cool person with absolutely no computer science knowledge.  If you're reading this it's actually a miracle, because it means I was somehow able to figire out how to make a blog post! Despite my lack of computuer knowledge, I pride myself on my creativity, and I hope to use that in a way I never have before in this class. Join me in my journey in becoming a computer science genius, or at least in becoming a little better at using my laptop.
 
-**Here is some bold text**
+**If you would like to learn more...**
 
-## Here is a secondary heading
+## Here is more info about me!
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
 
-Here's a table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
-
-How about a yummy crepe?
-
+My name is Justine, I am a junior. I am a comparative literature major and I play softball at Williams College.
 ![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
 
 It can also be centered!
