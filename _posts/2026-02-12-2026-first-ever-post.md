@@ -24,7 +24,7 @@ My name is Justine, I am a junior. I am a comparative literature major and I pla
 
 I also sing in an acapella group and do improv, I love to perform, or at least try to!
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+![Crepe](https://jld6-hub.github.io/assets/img/crepe.jpg){: .mx-auto.d-block :}
 
 Here's a code chunk:
 
