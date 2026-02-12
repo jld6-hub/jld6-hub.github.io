@@ -24,7 +24,7 @@ My name is Justine, I am a junior. I am a comparative literature major and I pla
 
 I also sing in an acapella group and do improv, I love to perform, or at least try to!
 
-![Crepe](https://jld6-hub.github.io/assets/DSC_2941.jpeg){: .mx-auto.d-block :}
+![Theatre](https://jld6-hub.github.io/assets/DSC_2941.jpeg)
 
 I have very minimal sewing experience. I did a sewing camp when I was in the third grade where I learned to make my own skirt, but I have since lost that knowledge. I can fix my ripped clothes and small things like that, but I'm excited to learn how to embroider. 
 
