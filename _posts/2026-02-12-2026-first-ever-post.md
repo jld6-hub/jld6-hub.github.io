@@ -30,7 +30,7 @@ I have very minimal sewing experience. I did a sewing camp when I was in the thi
 
 I have no programming experience except when I had to use R in a class last year. I don't know if that counts but it was horrifying. 
 
-And here is the same code with syntax highlighting:
+Something boring about me is that I hate pickles. I think that's boring because there are some people who don't like pickles and some people who do, so I don't feel like that opinion is very special.
 
 ```javascript
 var foo = function(x) {
