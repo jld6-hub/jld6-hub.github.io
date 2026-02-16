@@ -4,13 +4,4 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a very cool person with absolutely no computer science knowledge. If you’re reading this it’s actually a miracle, because it means I was somehow able to figire out how to make a blog post on my own website! Despite my lack of computuer knowledge, I pride myself on my creativity and willingness to try new things, and I hope to use that in a way I never have before in this class. I am looking forward to learning more about a field I’ve never explored. I can’t wait to become a computer science genius, or at least become a little better at using my laptop.
