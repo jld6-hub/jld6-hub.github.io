@@ -9,6 +9,9 @@ Conductive thread
 Garfield Plushy
 Thread, scissors, needle
 
+![Garf](https://jld6-hub.github.io/assets/img/IMG_8901.HEIC)
+![Garf](https://jld6-hub.github.io/assets/img/IMG_8902.HEIC)
+![Garf](https://jld6-hub.github.io/assets/img/IMG_8903.HEIC)
 
 
 
